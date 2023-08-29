@@ -1,0 +1,2089 @@
+Microsoft Windows [Version 10.0.19045.2251]
+(c) Microsoft Corporation. All rights reserved.
+
+E:\CDAC projects\fitart-master0902\fitart>npm install react-router-dom
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm WARN deprecated source-map-url@0.4.0: See https://github.com/lydell/source-map-url#deprecated
+npm WARN deprecated source-map-resolve@0.5.2: See https://github.com/lydell/source-map-resolve#deprecated
+npm WARN deprecated sane@4.1.0: some dependency vulnerabilities fixed, support for node < 10 dropped, and newer ECMAScript syntax/features added
+npm WARN deprecated request-promise-native@1.0.7: request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated request@2.88.0: request has been deprecated, see https://github.com/request/request/issues/3142
+npm WARN deprecated redux-devtools-extension@2.13.9: Package moved to @redux-devtools/extension.
+npm WARN deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+npm WARN deprecated popper.js@1.16.1: You can find the new Popper v2 at @popperjs/core, this package is dedicated to the legacy v1
+npm WARN deprecated left-pad@1.3.0: use String.prototype.padStart()
+npm WARN deprecated har-validator@5.1.3: this library is no longer supported
+npm WARN deprecated flatten@1.0.2: flatten is deprecated in favor of utility frameworks such as lodash.
+npm WARN deprecated eslint-loader@3.0.0: This loader has been deprecated. Please use eslint-webpack-plugin
+npm WARN deprecated emailjs-com@3.2.0: The SDK name changed to @emailjs/browser
+npm WARN deprecated buffer@4.9.1: This version of 'buffer' is out-of-date. You must update to v4.9.2 or newer
+npm WARN deprecated babel-eslint@10.0.3: babel-eslint is now @babel/eslint-parser. This package will no longer receive updates.
+npm WARN deprecated @hapi/bourne@1.3.2: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/hoek@8.2.5: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/topo@3.1.4: This version has been deprecated and is no longer supported or maintained
+npm WARN deprecated @hapi/joi@15.1.1: Switch to 'npm install joi'
+npm WARN deprecated @hapi/address@2.1.2: Moved to 'npm install @sideway/address'
+npm WARN deprecated uuid@3.3.3: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated svgo@1.3.0: This SVGO version is no longer supported. Upgrade to v2.x.x.
+npm WARN deprecated mkdirp@0.5.1: Legacy versions of mkdirp are no longer supported. Please update to mkdirp 1.x. (Note that the API surface has changed to use Promises in 1.x.)
+npm WARN deprecated ini@1.3.5: Please update to ini >=1.3.6 to avoid a prototype pollution issue
+npm WARN deprecated html-webpack-plugin@4.0.0-beta.5: please switch to a stable version
+npm WARN deprecated chokidar@2.1.8: Chokidar 2 does not receive security updates since 2019. Upgrade to chokidar 3 with 15x fewer dependencies
+npm WARN deprecated core-js@3.2.1: core-js@<3.4 is no longer maintained and not recommended for usage due to the number of issues. Because of the V8 engine whims, feature detection in old core-js versions could cause a slowdown up to 100x even if nothing is polyfilled. Please, upgrade your dependencies to the actual version of core-js.
+npm WARN deprecated debug@3.2.6: Debug versions >=3.2.0 <3.2.7 || >=4 <4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+npm WARN deprecated debug@3.2.6: Debug versions >=3.2.0 <3.2.7 || >=4 <4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+npm WARN deprecated debug@4.1.1: Debug versions >=3.2.0 <3.2.7 || >=4 <4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+npm WARN deprecated debug@4.1.1: Debug versions >=3.2.0 <3.2.7 || >=4 <4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+npm WARN deprecated debug@4.1.1: Debug versions >=3.2.0 <3.2.7 || >=4 <4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+npm WARN deprecated debug@4.1.1: Debug versions >=3.2.0 <3.2.7 || >=4 <4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+npm WARN deprecated debug@4.1.1: Debug versions >=3.2.0 <3.2.7 || >=4 <4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+npm WARN deprecated core-js@2.6.9: core-js@<3.4 is no longer maintained and not recommended for usage due to the number of issues. Because of the V8 engine whims, feature detection in old core-js versions could cause a slowdown up to 100x even if nothing is polyfilled. Please, upgrade your dependencies to the actual version of core-js.
+npm WARN deprecated source-map-resolve@0.6.0: See https://github.com/lydell/source-map-resolve#deprecated
+npm WARN deprecated debug@4.1.1: Debug versions >=3.2.0 <3.2.7 || >=4 <4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+npm WARN deprecated debug@4.1.1: Debug versions >=3.2.0 <3.2.7 || >=4 <4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+npm WARN deprecated debug@4.1.1: Debug versions >=3.2.0 <3.2.7 || >=4 <4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+
+added 714 packages, removed 635 packages, changed 725 packages, and audited 1547 packages in 1m
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+82 vulnerabilities (1 low, 27 moderate, 40 high, 14 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+E:\CDAC projects\fitart-master0902\fitart>npm install axios@0.24.0
+
+up to date, audited 1547 packages in 26s
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+82 vulnerabilities (1 low, 27 moderate, 40 high, 14 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+E:\CDAC projects\fitart-master0902\fitart>npm install react-bootstrap@next bootstrap@4.6 -save
+
+added 2 packages, removed 3 packages, changed 12 packages, and audited 1546 packages in 23s
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+82 vulnerabilities (1 low, 27 moderate, 40 high, 14 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+E:\CDAC projects\fitart-master0902\fitart>npm install react-bootstrap-icons@3.7.0 --save
+npm ERR! code ETARGET
+npm ERR! notarget No matching version found for react-bootstrap-icons@3.7.0.
+npm ERR! notarget In most cases you or one of your dependencies are requesting
+npm ERR! notarget a package version that doesn't exist.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Pushpdant\AppData\Local\npm-cache\_logs\2022-12-25T18_39_23_581Z-debug-0.log
+
+E:\CDAC projects\fitart-master0902\fitart>npm install react-bootstrap-icons --save
+
+changed 1 package, and audited 1546 packages in 6s
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+83 vulnerabilities (1 low, 27 moderate, 41 high, 14 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+E:\CDAC projects\fitart-master0902\fitart>npm install reduxreact-redux
+npm ERR! code E404
+npm ERR! 404 Not Found - GET https://registry.npmjs.org/reduxreact-redux - Not found
+npm ERR! 404
+npm ERR! 404  'reduxreact-redux@*' is not in this registry.
+npm ERR! 404
+npm ERR! 404 Note that you can also install from a
+npm ERR! 404 tarball, folder, http url, or git url.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Pushpdant\AppData\Local\npm-cache\_logs\2022-12-25T18_41_53_388Z-debug-0.log
+
+E:\CDAC projects\fitart-master0902\fitart>npm install redux react-redux
+
+changed 2 packages, and audited 1546 packages in 20s
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+82 vulnerabilities (1 low, 27 moderate, 40 high, 14 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+E:\CDAC projects\fitart-master0902\fitart>npm start
+
+> fitart@0.1.0 start
+> react-scripts start
+Starting the development server...
+
+Error: error:0308010C:digital envelope routines::unsupported
+    at new Hash (node:internal/crypto/hash:71:19)
+    at Object.createHash (node:crypto:133:10)
+    at module.exports (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\util\createHash.js:135:53)
+    at NormalModule._initBuildHash (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:414:16)
+    at handleParseError (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:467:10)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:499:5
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:356:12
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:373:3
+    at iterateNormalLoaders (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:214:10)
+    at iterateNormalLoaders (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:221:10)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:236:3
+    at runSyncOrAsync (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:130:11)
+    at iterateNormalLoaders (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:232:2)
+    at Array.<anonymous> (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:205:4)
+    at Storage.finished (E:\CDAC projects\fitart-master0902\fitart\node_modules\enhanced-resolve\lib\CachedInputFileSystem.js:43:16)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\enhanced-resolve\lib\CachedInputFileSystem.js:79:9
+E:\CDAC projects\fitart-master0902\fitart\node_modules\react-scripts\scripts\start.js:19
+  throw err;
+  ^
+
+Error: error:0308010C:digital envelope routines::unsupported
+    at new Hash (node:internal/crypto/hash:71:19)
+    at Object.createHash (node:crypto:133:10)
+    at module.exports (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\util\createHash.js:135:53)
+    at NormalModule._initBuildHash (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:414:16)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:448:10
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:322:13
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\babel-loader\lib\index.js:55:103 {
+  opensslErrorStack: [ 'error:03000086:digital envelope routines::initialization error' ],
+  library: 'digital envelope routines',
+  reason: 'unsupported',
+  code: 'ERR_OSSL_EVP_UNSUPPORTED'
+}
+
+Node.js v18.12.1
+
+E:\CDAC projects\fitart-master0902\fitart>react-scripts --openssl-legacy-provider start
+'react-scripts' is not recognized as an internal or external command,
+operable program or batch file.
+
+E:\CDAC projects\fitart-master0902\fitart>npm react-scripts --openssl-legacy-provider start
+Unknown command: "react-scripts"
+
+Did you mean one of these?
+    npm run-script # Run arbitrary package scripts
+    npm set-script # Set tasks in the scripts section of package.json, deprecated
+
+To see a list of supported npm commands, run:
+  npm help
+
+E:\CDAC projects\fitart-master0902\fitart>npm install react-scripts --openssl-legacy-provider start
+npm WARN deprecated start@5.1.0: Deprecated in favor of https://github.com/deepsweet/start
+
+added 1 package, and audited 1547 packages in 20s
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+82 vulnerabilities (1 low, 27 moderate, 40 high, 14 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+E:\CDAC projects\fitart-master0902\fitart>npm start
+
+> fitart@0.1.0 start
+> react-scripts start
+Starting the development server...
+
+Error: error:0308010C:digital envelope routines::unsupported
+    at new Hash (node:internal/crypto/hash:71:19)
+    at Object.createHash (node:crypto:133:10)
+    at module.exports (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\util\createHash.js:135:53)
+    at NormalModule._initBuildHash (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:414:16)
+    at handleParseError (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:467:10)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:499:5
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:356:12
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:373:3
+    at iterateNormalLoaders (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:214:10)
+    at iterateNormalLoaders (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:221:10)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:236:3
+    at runSyncOrAsync (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:130:11)
+    at iterateNormalLoaders (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:232:2)
+    at Array.<anonymous> (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:205:4)
+    at Storage.finished (E:\CDAC projects\fitart-master0902\fitart\node_modules\enhanced-resolve\lib\CachedInputFileSystem.js:43:16)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\enhanced-resolve\lib\CachedInputFileSystem.js:79:9
+E:\CDAC projects\fitart-master0902\fitart\node_modules\react-scripts\scripts\start.js:19
+  throw err;
+  ^
+
+Error: error:0308010C:digital envelope routines::unsupported
+    at new Hash (node:internal/crypto/hash:71:19)
+    at Object.createHash (node:crypto:133:10)
+    at module.exports (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\util\createHash.js:135:53)
+    at NormalModule._initBuildHash (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:414:16)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:448:10
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:322:13
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\babel-loader\lib\index.js:55:103 {
+  opensslErrorStack: [ 'error:03000086:digital envelope routines::initialization error' ],
+  library: 'digital envelope routines',
+  reason: 'unsupported',
+  code: 'ERR_OSSL_EVP_UNSUPPORTED'
+}
+
+Node.js v18.12.1
+
+E:\CDAC projects\fitart-master0902\fitart>yarn add
+'yarn' is not recognized as an internal or external command,
+operable program or batch file.
+
+E:\CDAC projects\fitart-master0902\fitart>npm uninstall react-scripts
+
+removed 1396 packages, and audited 151 packages in 5s
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+2 vulnerabilities (1 low, 1 high)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+
+E:\CDAC projects\fitart-master0902\fitart>npm install react-scripts
+npm WARN deprecated stable@0.1.8: Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility
+npm WARN deprecated rollup-plugin-terser@7.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-terser
+npm WARN deprecated sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead
+npm WARN deprecated w3c-hr-time@1.0.2: Use your platform's native performance.now() and performance.timeOrigin.
+npm WARN deprecated svgo@1.3.2: This SVGO version is no longer supported. Upgrade to v2.x.x.
+
+added 1363 packages, removed 43 packages, changed 8 packages, and audited 1471 packages in 1m
+
+218 packages are looking for funding
+  run `npm fund` for details
+
+7 vulnerabilities (1 low, 6 high)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+
+E:\CDAC projects\fitart-master0902\fitart>npm audit fix
+
+changed 1 package, and audited 1471 packages in 5s
+
+218 packages are looking for funding
+  run `npm fund` for details
+
+# npm audit report
+
+nth-check  <2.0.1
+Severity: high
+Inefficient Regular Expression Complexity in nth-check - https://github.com/advisories/GHSA-rp65-9cf3-cjxr
+fix available via `npm audit fix --force`
+Will install react-scripts@2.1.3, which is a breaking change
+node_modules/svgo/node_modules/nth-check
+  css-select  <=3.1.0
+  Depends on vulnerable versions of nth-check
+  node_modules/svgo/node_modules/css-select
+    svgo  1.0.0 - 1.3.2
+    Depends on vulnerable versions of css-select
+    node_modules/svgo
+      @svgr/plugin-svgo  <=5.5.0
+      Depends on vulnerable versions of svgo
+      node_modules/@svgr/plugin-svgo
+        @svgr/webpack  4.0.0 - 5.5.0
+        Depends on vulnerable versions of @svgr/plugin-svgo
+        node_modules/@svgr/webpack
+          react-scripts  >=2.1.4
+          Depends on vulnerable versions of @svgr/webpack
+          node_modules/react-scripts
+
+6 high severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+E:\CDAC projects\fitart-master0902\fitart>npm audit fix --force
+npm WARN using --force Recommended protections disabled.
+npm WARN audit Updating react-scripts to 2.1.3, which is a SemVer major change.
+npm WARN deprecated request-promise-native@1.0.9: request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+npm WARN deprecated topo@2.0.2: This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+npm WARN deprecated chokidar@2.1.8: Chokidar 2 does not receive security updates since 2019. Upgrade to chokidar 3 with 15x fewer dependencies
+npm WARN deprecated left-pad@1.3.0: use String.prototype.padStart()
+npm WARN deprecated hoek@4.2.1: This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+npm WARN deprecated acorn-dynamic-import@3.0.0: This is probably built in to whatever tool you're using. If you still need it... idk
+npm WARN deprecated uglify-es@3.3.9: support for ECMAScript is superseded by `uglify-js` as of v3.13.0
+npm WARN deprecated joi@11.4.0: This version has been deprecated in accordance with the hapi support policy (hapi.im/support). Please upgrade to the latest version to get the best features, bug fixes, and security patches. If you are unable to upgrade at this time, paid support is available for older versions (hapi.im/commercial).
+npm WARN deprecated source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated
+npm WARN deprecated source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated
+npm WARN deprecated flatten@1.0.3: flatten is deprecated in favor of utility frameworks such as lodash.
+npm WARN deprecated sane@2.5.2: some dependency vulnerabilities fixed, support for node < 10 dropped, and newer ECMAScript syntax/features added
+npm WARN deprecated circular-json@0.3.3: CircularJSON is in maintenance only, flatted is its successor.
+npm WARN deprecated eslint-loader@2.1.1: This loader has been deprecated. Please use eslint-webpack-plugin
+npm WARN deprecated babel-eslint@9.0.0: babel-eslint is now @babel/eslint-parser. This package will no longer receive updates.
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated kleur@2.0.2: Please upgrade to kleur@3 or migrate to 'ansi-colors' if you prefer the old syntax. Visit <https://github.com/lukeed/kleur/releases/tag/v3.0.0\> for migration path(s).
+npm WARN deprecated html-webpack-plugin@4.0.0-alpha.2: please switch to a stable version
+npm WARN deprecated core-js@2.6.4: core-js@<3.23.3 is no longer maintained and not recommended for usage due to the number of issues. Because of the V8 engine whims, feature detection in old core-js versions could cause a slowdown up to 100x even if nothing is polyfilled. Some versions have web compatibility issues. Please, upgrade your dependencies to the actual version of core-js.
+npm WARN deprecated core-js@2.6.12: core-js@<3.23.3 is no longer maintained and not recommended for usage due to the number of issues. Because of the V8 engine whims, feature detection in old core-js versions could cause a slowdown up to 100x even if nothing is polyfilled. Some versions have web compatibility issues. Please, upgrade your dependencies to the actual version of core-js.
+npm WARN deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+
+added 950 packages, removed 547 packages, changed 348 packages, and audited 1874 packages in 2m
+
+89 packages are looking for funding
+  run `npm fund` for details
+
+# npm audit report
+
+ansi-html  <0.0.8
+Severity: high
+Uncontrolled Resource Consumption in ansi-html - https://github.com/advisories/GHSA-whgm-jr23-g3j9
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/ansi-html
+  webpack-dev-server  2.0.0-beta - 4.7.2
+  Depends on vulnerable versions of ansi-html
+  Depends on vulnerable versions of chokidar
+  Depends on vulnerable versions of selfsigned
+  Depends on vulnerable versions of sockjs
+  Depends on vulnerable versions of yargs
+  node_modules/webpack-dev-server
+    react-scripts  0.1.0 - 5.0.0-next.60
+    Depends on vulnerable versions of @svgr/webpack
+    Depends on vulnerable versions of babel-jest
+    Depends on vulnerable versions of css-loader
+    Depends on vulnerable versions of fork-ts-checker-webpack-plugin-alt
+    Depends on vulnerable versions of jest
+    Depends on vulnerable versions of optimize-css-assets-webpack-plugin
+    Depends on vulnerable versions of react-dev-utils
+    Depends on vulnerable versions of terser-webpack-plugin
+    Depends on vulnerable versions of webpack
+    Depends on vulnerable versions of webpack-dev-server
+    node_modules/react-scripts
+
+braces  <=2.3.0
+Regular Expression Denial of Service in braces - https://github.com/advisories/GHSA-g95f-p29q-9xw4
+Regular Expression Denial of Service (ReDoS) in braces - https://github.com/advisories/GHSA-cwfw-4gq5-mrqx
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/jest-cli/node_modules/braces
+node_modules/jest-config/node_modules/braces
+node_modules/jest-haste-map/node_modules/braces
+node_modules/jest-message-util/node_modules/braces
+node_modules/jest-runtime/node_modules/braces
+node_modules/test-exclude/node_modules/braces
+  micromatch  0.2.0 - 2.3.11
+  Depends on vulnerable versions of braces
+  Depends on vulnerable versions of parse-glob
+  node_modules/jest-cli/node_modules/micromatch
+  node_modules/jest-config/node_modules/micromatch
+  node_modules/jest-haste-map/node_modules/micromatch
+  node_modules/jest-message-util/node_modules/micromatch
+  node_modules/jest-runtime/node_modules/micromatch
+  node_modules/test-exclude/node_modules/micromatch
+    jest-cli  0.10.2 - 24.8.0
+    Depends on vulnerable versions of jest-config
+    Depends on vulnerable versions of jest-environment-jsdom
+    Depends on vulnerable versions of jest-haste-map
+    Depends on vulnerable versions of jest-message-util
+    Depends on vulnerable versions of jest-resolve-dependencies
+    Depends on vulnerable versions of jest-runner
+    Depends on vulnerable versions of jest-runtime
+    Depends on vulnerable versions of jest-snapshot
+    Depends on vulnerable versions of jest-util
+    Depends on vulnerable versions of micromatch
+    Depends on vulnerable versions of node-notifier
+    Depends on vulnerable versions of yargs
+    node_modules/jest-cli
+      jest  13.3.0-alpha.4eb0c908 - 23.6.0
+      Depends on vulnerable versions of jest-cli
+      node_modules/jest
+    jest-config  12.1.1-alpha.2935e14d - 25.5.4
+    Depends on vulnerable versions of babel-jest
+    Depends on vulnerable versions of jest-environment-jsdom
+    Depends on vulnerable versions of jest-environment-node
+    Depends on vulnerable versions of jest-jasmine2
+    Depends on vulnerable versions of jest-util
+    Depends on vulnerable versions of micromatch
+    node_modules/jest-config
+      jest-runner  21.0.0-alpha.1 - 22.4.4 || 23.4.0 - 23.6.0
+      Depends on vulnerable versions of jest-config
+      Depends on vulnerable versions of jest-haste-map
+      Depends on vulnerable versions of jest-jasmine2
+      Depends on vulnerable versions of jest-message-util
+      Depends on vulnerable versions of jest-runtime
+      Depends on vulnerable versions of jest-util
+      node_modules/jest-runner
+      jest-runtime  14.1.0 - 24.8.0
+      Depends on vulnerable versions of babel-plugin-istanbul
+      Depends on vulnerable versions of jest-config
+      Depends on vulnerable versions of jest-haste-map
+      Depends on vulnerable versions of jest-message-util
+      Depends on vulnerable versions of jest-snapshot
+      Depends on vulnerable versions of jest-util
+      Depends on vulnerable versions of micromatch
+      Depends on vulnerable versions of yargs
+      node_modules/jest-runtime
+    jest-haste-map  16.1.0-alpha.691b0e22 - 24.0.0
+    Depends on vulnerable versions of micromatch
+    Depends on vulnerable versions of sane
+    node_modules/jest-haste-map
+    jest-message-util  18.5.0-alpha.7da3df39 - 23.1.0 || 23.4.0 - 24.0.0-alpha.16
+    Depends on vulnerable versions of micromatch
+    node_modules/jest-message-util
+      expect  21.0.0-beta.1 - 22.4.3 || 23.4.0 - 23.6.0
+      Depends on vulnerable versions of jest-message-util
+      node_modules/expect
+        jest-jasmine2  18.5.0-alpha.7da3df39 - 22.4.4 || 23.4.0 - 23.6.0
+        Depends on vulnerable versions of expect
+        Depends on vulnerable versions of jest-message-util
+        Depends on vulnerable versions of jest-snapshot
+        Depends on vulnerable versions of jest-util
+        node_modules/jest-jasmine2
+      jest-snapshot  23.4.0 - 23.6.0
+      Depends on vulnerable versions of jest-message-util
+      node_modules/jest-snapshot
+        jest-resolve-dependencies  23.4.0 - 23.6.0
+        Depends on vulnerable versions of jest-snapshot
+        node_modules/jest-resolve-dependencies
+      jest-util  18.5.0-alpha.7da3df39 - 22.4.3 || 23.4.0
+      Depends on vulnerable versions of jest-message-util
+      node_modules/jest-util
+        jest-environment-jsdom  10.0.2 - 25.5.0
+        Depends on vulnerable versions of jest-util
+        Depends on vulnerable versions of jsdom
+        node_modules/jest-environment-jsdom
+        jest-environment-node  18.5.0-alpha.7da3df39 - 22.4.3 || 23.4.0
+        Depends on vulnerable versions of jest-util
+        node_modules/jest-environment-node
+    test-exclude  <=4.2.3
+    Depends on vulnerable versions of micromatch
+    node_modules/test-exclude
+      babel-plugin-istanbul  <=5.0.0
+      Depends on vulnerable versions of test-exclude
+      node_modules/babel-plugin-istanbul
+        babel-jest  14.2.0-alpha.ca8bfb6e - 24.0.0-alpha.16
+        Depends on vulnerable versions of babel-plugin-istanbul
+        node_modules/babel-jest
+
+browserslist  4.0.0 - 4.16.4
+Severity: moderate
+Regular Expression Denial of Service in browserslist - https://github.com/advisories/GHSA-w8qv-6jwh-64r5
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/react-dev-utils/node_modules/browserslist
+  react-dev-utils  0.4.0 - 12.0.0-next.60
+  Depends on vulnerable versions of browserslist
+  Depends on vulnerable versions of globby
+  Depends on vulnerable versions of immer
+  Depends on vulnerable versions of loader-utils
+  Depends on vulnerable versions of recursive-readdir
+  Depends on vulnerable versions of shell-quote
+  node_modules/react-dev-utils
+
+glob-parent  <5.1.2
+Severity: high
+glob-parent before 5.1.2 vulnerable to Regular Expression Denial of Service in enclosure regex - https://github.com/advisories/GHSA-ww39-953v-wcq6
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/glob-base/node_modules/glob-parent
+node_modules/glob-parent
+  chokidar  1.0.0-rc1 - 2.1.8
+  Depends on vulnerable versions of glob-parent
+  node_modules/chokidar
+    fork-ts-checker-webpack-plugin-alt  *
+    Depends on vulnerable versions of chokidar
+    node_modules/fork-ts-checker-webpack-plugin-alt
+    watchpack-chokidar2  *
+    Depends on vulnerable versions of chokidar
+    node_modules/watchpack-chokidar2
+      watchpack  1.7.2 - 1.7.5
+      Depends on vulnerable versions of watchpack-chokidar2
+      node_modules/watchpack
+  fast-glob  <=2.2.7
+  Depends on vulnerable versions of glob-parent
+  node_modules/fast-glob
+    globby  8.0.0 - 9.2.0
+    Depends on vulnerable versions of fast-glob
+    node_modules/globby
+  glob-base  *
+  Depends on vulnerable versions of glob-parent
+  node_modules/glob-base
+    parse-glob  >=2.1.0
+    Depends on vulnerable versions of glob-base
+    node_modules/parse-glob
+
+immer  <=9.0.5
+Severity: critical
+Prototype Pollution in immer - https://github.com/advisories/GHSA-33f9-j839-rf8h
+Prototype Pollution in immer - https://github.com/advisories/GHSA-9qmh-276g-x5pj
+Prototype Pollution in immer - https://github.com/advisories/GHSA-c36v-fmgq-m8hx
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/immer
+
+jsdom  <=16.4.0
+Severity: moderate
+Insufficient Granularity of Access Control in JSDom - https://github.com/advisories/GHSA-f4c9-cqv8-9v98
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/jest-environment-jsdom/node_modules/jsdom
+
+loader-utils  <=1.4.1
+Severity: critical
+Prototype pollution in webpack loader-utils - https://github.com/advisories/GHSA-76p3-8jx3-jpfq
+loader-utils is vulnerable to Regular Expression Denial of Service (ReDoS) via url variable - https://github.com/advisories/GHSA-3rfm-jhwj-7488
+loader-utils is vulnerable to Regular Expression Denial of Service (ReDoS) - https://github.com/advisories/GHSA-hhq3-ff78-jv3g
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/react-dev-utils/node_modules/loader-utils
+
+merge  <2.1.1
+Severity: high
+Prototype Pollution in merge - https://github.com/advisories/GHSA-7wpw-2hjm-89gp
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/merge
+  exec-sh  <=0.3.1
+  Depends on vulnerable versions of merge
+  node_modules/exec-sh
+    sane  1.0.4 - 4.0.2
+    Depends on vulnerable versions of exec-sh
+    Depends on vulnerable versions of watch
+    node_modules/sane
+    watch  >=0.14.0
+    Depends on vulnerable versions of exec-sh
+    node_modules/watch
+
+minimatch  <3.0.5
+Severity: high
+minimatch ReDoS vulnerability - https://github.com/advisories/GHSA-f8q6-p94x-37v3
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/recursive-readdir/node_modules/minimatch
+  recursive-readdir  1.2.0 - 2.2.2
+  Depends on vulnerable versions of minimatch
+  node_modules/recursive-readdir
+
+node-forge  <=1.2.1
+Severity: high
+Open Redirect in node-forge - https://github.com/advisories/GHSA-8fr3-hfg3-gpgp
+Prototype Pollution in node-forge debug API. - https://github.com/advisories/GHSA-5rrq-pxf6-6jx5
+Improper Verification of Cryptographic Signature in `node-forge` - https://github.com/advisories/GHSA-2r2c-g63r-vccr
+Improper Verification of Cryptographic Signature in node-forge - https://github.com/advisories/GHSA-x4jg-mjrx-434g
+Improper Verification of Cryptographic Signature in node-forge - https://github.com/advisories/GHSA-cfm4-qjh2-4765
+URL parsing in node-forge could lead to undesired behavior. - https://github.com/advisories/GHSA-gf8q-jrpm-jvxq
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/node-forge
+  selfsigned  1.1.1 - 1.10.14
+  Depends on vulnerable versions of node-forge
+  node_modules/selfsigned
+
+node-notifier  <8.0.1
+Severity: moderate
+OS Command Injection in node-notifier - https://github.com/advisories/GHSA-5fw9-fq32-wv5p
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/node-notifier
+
+nth-check  <2.0.1
+Severity: high
+Inefficient Regular Expression Complexity in nth-check - https://github.com/advisories/GHSA-rp65-9cf3-cjxr
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/svgo/node_modules/nth-check
+  css-select  <=3.1.0
+  Depends on vulnerable versions of nth-check
+  node_modules/svgo/node_modules/css-select
+    svgo  1.0.0 - 1.3.2
+    Depends on vulnerable versions of css-select
+    node_modules/svgo
+      @svgr/core  <=3.1.0
+      Depends on vulnerable versions of svgo
+      node_modules/@svgr/core
+        @svgr/webpack  <=3.1.0
+        Depends on vulnerable versions of @svgr/core
+        node_modules/@svgr/webpack
+      postcss-svgo  4.0.0-nightly.2020.1.9 - 5.0.0-rc.2
+      Depends on vulnerable versions of svgo
+      node_modules/postcss-svgo
+        cssnano-preset-default  <=4.0.8
+        Depends on vulnerable versions of postcss-svgo
+        node_modules/cssnano-preset-default
+          cssnano  4.0.0-nightly.2020.1.9 - 4.1.11
+          Depends on vulnerable versions of cssnano-preset-default
+          node_modules/cssnano
+            optimize-css-assets-webpack-plugin  3.2.1 || 5.0.0 - 5.0.8
+            Depends on vulnerable versions of cssnano
+            node_modules/optimize-css-assets-webpack-plugin
+
+postcss  <7.0.36
+Severity: moderate
+Regular Expression Denial of Service in postcss - https://github.com/advisories/GHSA-566m-qj78-rww5
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/postcss
+  css-loader  0.15.0 - 1.0.1
+  Depends on vulnerable versions of icss-utils
+  Depends on vulnerable versions of postcss
+  Depends on vulnerable versions of postcss-modules-extract-imports
+  Depends on vulnerable versions of postcss-modules-local-by-default
+  Depends on vulnerable versions of postcss-modules-scope
+  Depends on vulnerable versions of postcss-modules-values
+  node_modules/css-loader
+  icss-utils  <=3.0.1
+  Depends on vulnerable versions of postcss
+  node_modules/icss-utils
+  postcss-modules-extract-imports  <=1.2.1
+  Depends on vulnerable versions of postcss
+  node_modules/postcss-modules-extract-imports
+  postcss-modules-local-by-default  <=1.2.0
+  Depends on vulnerable versions of postcss
+  node_modules/postcss-modules-local-by-default
+  postcss-modules-scope  <=1.1.0
+  Depends on vulnerable versions of postcss
+  node_modules/postcss-modules-scope
+  postcss-modules-values  <=1.3.0
+  Depends on vulnerable versions of postcss
+  node_modules/postcss-modules-values
+
+
+serialize-javascript  <=3.0.0
+Severity: high
+Insecure serialization leading to RCE in serialize-javascript - https://github.com/advisories/GHSA-hxcc-f52p-wc94
+Cross-Site Scripting in serialize-javascript - https://github.com/advisories/GHSA-h9rv-jmmf-4pgx
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/serialize-javascript
+  terser-webpack-plugin  <=1.4.3 || 2.0.0 - 2.3.5
+  Depends on vulnerable versions of serialize-javascript
+  Depends on vulnerable versions of terser
+  node_modules/terser-webpack-plugin
+  uglifyjs-webpack-plugin  >=1.1.3
+  Depends on vulnerable versions of cacache
+  Depends on vulnerable versions of serialize-javascript
+  node_modules/uglifyjs-webpack-plugin
+    webpack  4.3.0 - 4.25.1
+    Depends on vulnerable versions of uglifyjs-webpack-plugin
+    node_modules/webpack
+
+shell-quote  <=1.7.2
+Severity: critical
+Improper Neutralization of Special Elements used in a Command in Shell-quote - https://github.com/advisories/GHSA-g4rg-993r-mgx7
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/shell-quote
+
+sockjs  <0.3.20
+Severity: moderate
+Improper Input Validation in SocksJS-Node - https://github.com/advisories/GHSA-c9g6-9335-x697
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/sockjs
+
+ssri  5.2.2 - 6.0.1
+Severity: high
+Regular Expression Denial of Service (ReDoS) - https://github.com/advisories/GHSA-vx3p-948g-6vhq
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/uglifyjs-webpack-plugin/node_modules/ssri
+  cacache  10.0.4 - 11.0.0
+  Depends on vulnerable versions of ssri
+  node_modules/uglifyjs-webpack-plugin/node_modules/cacache
+
+terser  <4.8.1
+Severity: high
+Terser insecure use of regular expressions before v4.8.1 and v5.14.2 leads to ReDoS - https://github.com/advisories/GHSA-4wf5-vphf-c2xc
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/terser
+
+yargs-parser  6.0.0 - 13.1.1
+Severity: moderate
+yargs-parser Vulnerable to Prototype Pollution - https://github.com/advisories/GHSA-p9pc-299p-vxgp
+fix available via `npm audit fix --force`
+Will install react-scripts@5.0.1, which is a breaking change
+node_modules/webpack-dev-server/node_modules/yargs-parser
+node_modules/yargs-parser
+  yargs  8.0.0-candidate.0 - 12.0.5
+  Depends on vulnerable versions of yargs-parser
+  node_modules/webpack-dev-server/node_modules/yargs
+  node_modules/yargs
+
+72 vulnerabilities (12 low, 19 moderate, 37 high, 4 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+E:\CDAC projects\fitart-master0902\fitart>npm start
+
+> fitart@0.1.0 start
+> react-scripts start
+
+(node:11316) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Starting the development server...
+
+Error: error:0308010C:digital envelope routines::unsupported
+    at new Hash (node:internal/crypto/hash:71:19)
+    at Object.createHash (node:crypto:133:10)
+    at module.exports (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\util\createHash.js:90:53)
+    at NormalModule._initBuildHash (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:386:16)
+    at handleParseError (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:434:10)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:466:5
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:327:12
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:373:3
+    at iterateNormalLoaders (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:214:10)
+    at iterateNormalLoaders (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:221:10)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:236:3
+    at runSyncOrAsync (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:130:11)
+    at iterateNormalLoaders (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:232:2)
+    at Array.<anonymous> (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:205:4)
+    at Storage.finished (E:\CDAC projects\fitart-master0902\fitart\node_modules\enhanced-resolve\lib\CachedInputFileSystem.js:55:16)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\enhanced-resolve\lib\CachedInputFileSystem.js:91:9
+E:\CDAC projects\fitart-master0902\fitart\node_modules\react-scripts\scripts\start.js:19
+  throw err;
+  ^
+
+Error: error:0308010C:digital envelope routines::unsupported
+    at new Hash (node:internal/crypto/hash:71:19)
+    at Object.createHash (node:crypto:133:10)
+    at module.exports (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\util\createHash.js:90:53)
+    at NormalModule._initBuildHash (E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:386:16)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:418:10
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\webpack\lib\NormalModule.js:293:13
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (E:\CDAC projects\fitart-master0902\fitart\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at E:\CDAC projects\fitart-master0902\fitart\node_modules\babel-loader\lib\index.js:51:103 {
+  opensslErrorStack: [ 'error:03000086:digital envelope routines::initialization error' ],
+  library: 'digital envelope routines',
+  reason: 'unsupported',
+  code: 'ERR_OSSL_EVP_UNSUPPORTED'
+}
+
+Node.js v18.12.1
+
+E:\CDAC projects\fitart-master0902\fitart> npm audit fix --force
+npm WARN using --force Recommended protections disabled.
+npm WARN audit Updating react-scripts to 5.0.1, which is a SemVer major change.
+npm WARN deprecated rollup-plugin-terser@7.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-terser
+npm WARN deprecated sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead
+
+added 558 packages, removed 950 packages, changed 347 packages, and audited 1482 packages in 2m
+
+218 packages are looking for funding
+  run `npm fund` for details
+
+# npm audit report
+
+nth-check  <2.0.1
+Severity: high
+Inefficient Regular Expression Complexity in nth-check - https://github.com/advisories/GHSA-rp65-9cf3-cjxr
+fix available via `npm audit fix --force`
+Will install react-scripts@2.1.3, which is a breaking change
+node_modules/svgo/node_modules/nth-check
+  css-select  <=3.1.0
+  Depends on vulnerable versions of nth-check
+  node_modules/svgo/node_modules/css-select
+    svgo  1.0.0 - 1.3.2
+    Depends on vulnerable versions of css-select
+    node_modules/svgo
+      @svgr/plugin-svgo  <=5.5.0
+      Depends on vulnerable versions of svgo
+      node_modules/@svgr/plugin-svgo
+        @svgr/webpack  4.0.0 - 5.5.0
+        Depends on vulnerable versions of @svgr/plugin-svgo
+        node_modules/@svgr/webpack
+          react-scripts  >=2.1.4
+          Depends on vulnerable versions of @svgr/webpack
+          node_modules/react-scripts
+
+6 high severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+E:\CDAC projects\fitart-master0902\fitart>npm start
+
+> fitart@0.1.0 start
+> react-scripts start
+
+(node:26744) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:26744) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+Failed to compile.
+
+Module not found: Error: Can't resolve '../assets/180419_Boxing_A1_04.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+WARNING in [eslint]
+src\screens\common\AddLocalAdmin.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AddTrainer.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AllBatches.jsx
+  Line 15:11:  'history' is assigned a value but never used      no-unused-vars
+  Line 42:11:  'deleteBatch' is assigned a value but never used  no-unused-vars
+
+src\screens\common\BranchPage.jsx
+  Line 14:9:  'history' is assigned a value but never used                                                                                                  no-unused-vars
+  Line 47:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\SignIn.jsx
+  Line 5:10:  'Link' is defined but never used  no-unused-vars
+
+src\screens\common\SignUp.jsx
+  Line 9:9:    'useSelector' is defined but never used    no-unused-vars
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\UpdateBatch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                 no-unused-vars
+  Line 11:12:  'batchType' is assigned a value but never used                                                                          no-unused-vars
+  Line 25:9:   React Hook useEffect has a missing dependency: 'batchData.batchTime'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateBranch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                                            no-unused-vars
+  Line 11:12:  'branchName' is assigned a value but never used                                                                                                    no-unused-vars
+  Line 13:12:  'city' is assigned a value but never used                                                                                                          no-unused-vars
+  Line 14:12:  'state' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 16:12:  'phone' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 30:9:   React Hook useEffect has missing dependencies: 'branchData.locality' and 'branchData.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateLocalAdmin.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\common\UpdatePackage.jsx
+  Line 31:5:  React Hook useEffect has missing dependencies: 'packageData.packageDescription', 'packageData.packageName', and 'packageData.packagePrice'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyBranchPage.jsx
+  Line 48:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyMembers.jsx
+  Line 27:9:  React Hook useEffect has a missing dependency: 'getMember'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\UpdateMember.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\localadmin\UpdateTrainer.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\member\ProfileLocal.jsx
+  Line 58:5:  React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\member\ProfileMember.jsx
+  Line 4:8:    'axios' is defined but never used                                                                                                                                                                                                                                                                                              no-unused-vars
+  Line 27:10:  'role' is assigned a value but never used                                                                                                                                                                                                                                                                                      no-unused-vars
+  Line 27:16:  'setRole' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 29:9:   'history' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 40:11:  'id' is assigned a value but never used                                                                                                                                                                                                                                                                                        no-unused-vars
+  Line 58:5:   React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+ERROR in ./src/components/About.jsx 9:0-52
+Module not found: Error: Can't resolve '../assets/180419_Boxing_A1_04.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/components/Home.jsx 6:0-37
+Module not found: Error: Can't resolve '../assets/hero.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/components/Home.jsx 7:0-39
+Module not found: Error: Can't resolve '../assets/floor.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/components/IndividualExpert.jsx 11:0-52
+Module not found: Error: Can't resolve '../assets/180419_Boxing_19_29.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/context/ReviewContext.jsx 6:0-42
+Module not found: Error: Can't resolve '../assets/barney.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 7:0-44
+Module not found: Error: Can't resolve '../assets/richard.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 8:0-46
+Module not found: Error: Can't resolve '../assets/gilfoyle.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 9:0-42
+Module not found: Error: Can't resolve '../assets/dinesh.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 10:0-40
+Module not found: Error: Can't resolve '../assets/gavin.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 11:0-42
+Module not found: Error: Can't resolve '../assets/rachel.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 12:0-42
+Module not found: Error: Can't resolve '../assets/phoebe.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 13:0-47
+Module not found: Error: Can't resolve '../assets/monica-hall.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 14:0-38
+Module not found: Error: Can't resolve '../assets/ross.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 15:0-46
+Module not found: Error: Can't resolve '../assets/chandler.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 16:0-38
+Module not found: Error: Can't resolve '../assets/joey.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 17:0-42
+Module not found: Error: Can't resolve '../assets/elrich.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 18:0-38
+Module not found: Error: Can't resolve '../assets/jian.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 19:0-40
+Module not found: Error: Can't resolve '../assets/jared.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 20:0-42
+Module not found: Error: Can't resolve '../assets/monica.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 21:0-42
+Module not found: Error: Can't resolve '../assets/laurie.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 22:0-42
+Module not found: Error: Can't resolve '../assets/dexter.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 23:0-42
+Module not found: Error: Can't resolve '../assets/jesse.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 24:0-42
+Module not found: Error: Can't resolve '../assets/walter.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 25:0-36
+Module not found: Error: Can't resolve '../assets/ted.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 26:0-46
+Module not found: Error: Can't resolve '../assets/marshall.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 27:0-39
+Module not found: Error: Can't resolve '../assets/lily.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 28:0-40
+Module not found: Error: Can't resolve '../assets/robin.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 5:0-40
+Module not found: Error: Can't resolve '../assets/trainer1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 6:0-40
+Module not found: Error: Can't resolve '../assets/trainer2.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 7:0-40
+Module not found: Error: Can't resolve '../assets/trainer3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 8:0-40
+Module not found: Error: Can't resolve '../assets/trainer4.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 9:0-40
+Module not found: Error: Can't resolve '../assets/trainer5.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 10:0-36
+Module not found: Error: Can't resolve '../assets/nut1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 11:0-36
+Module not found: Error: Can't resolve '../assets/nut2.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 12:0-36
+Module not found: Error: Can't resolve '../assets/nut4.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 13:0-36
+Module not found: Error: Can't resolve '../assets/nut3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 14:0-35
+Module not found: Error: Can't resolve '../assets/r7.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 5:36-82
+Module not found: Error: Can't resolve './assets/floor.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 6:36-87
+Module not found: Error: Can't resolve './assets/price_page.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 7:36-81
+Module not found: Error: Can't resolve './assets/img1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 8:36-81
+Module not found: Error: Can't resolve './assets/sign.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 9:36-84
+Module not found: Error: Can't resolve './assets/fitarmy.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 10:36-83
+Module not found: Error: Can't resolve './assets/review.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 11:36-91
+Module not found: Error: Can't resolve './assets/privacypolicy3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 12:36-92
+Module not found: Error: Can't resolve './assets/termsofservices.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+webpack compiled with 45 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '../assets/180419_Boxing_A1_04.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+WARNING in [eslint]
+src\screens\common\AddLocalAdmin.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AddTrainer.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AllBatches.jsx
+  Line 15:11:  'history' is assigned a value but never used      no-unused-vars
+  Line 42:11:  'deleteBatch' is assigned a value but never used  no-unused-vars
+
+src\screens\common\BranchPage.jsx
+  Line 14:9:  'history' is assigned a value but never used                                                                                                  no-unused-vars
+  Line 47:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\SignIn.jsx
+  Line 5:10:  'Link' is defined but never used  no-unused-vars
+
+src\screens\common\SignUp.jsx
+  Line 9:9:    'useSelector' is defined but never used    no-unused-vars
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\UpdateBatch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                 no-unused-vars
+  Line 11:12:  'batchType' is assigned a value but never used                                                                          no-unused-vars
+  Line 25:9:   React Hook useEffect has a missing dependency: 'batchData.batchTime'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateBranch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                                            no-unused-vars
+  Line 11:12:  'branchName' is assigned a value but never used                                                                                                    no-unused-vars
+  Line 13:12:  'city' is assigned a value but never used                                                                                                          no-unused-vars
+  Line 14:12:  'state' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 16:12:  'phone' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 30:9:   React Hook useEffect has missing dependencies: 'branchData.locality' and 'branchData.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateLocalAdmin.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\common\UpdatePackage.jsx
+  Line 31:5:  React Hook useEffect has missing dependencies: 'packageData.packageDescription', 'packageData.packageName', and 'packageData.packagePrice'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyBranchPage.jsx
+  Line 48:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyMembers.jsx
+  Line 27:9:  React Hook useEffect has a missing dependency: 'getMember'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\UpdateMember.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\localadmin\UpdateTrainer.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\member\ProfileLocal.jsx
+  Line 58:5:  React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\member\ProfileMember.jsx
+  Line 4:8:    'axios' is defined but never used                                                                                                                                                                                                                                                                                              no-unused-vars
+  Line 27:10:  'role' is assigned a value but never used                                                                                                                                                                                                                                                                                      no-unused-vars
+  Line 27:16:  'setRole' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 29:9:   'history' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 40:11:  'id' is assigned a value but never used                                                                                                                                                                                                                                                                                        no-unused-vars
+  Line 58:5:   React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+ERROR in ./src/components/About.jsx 9:0-52
+Module not found: Error: Can't resolve '../assets/180419_Boxing_A1_04.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/components/Home.jsx 6:0-37
+Module not found: Error: Can't resolve '../assets/hero.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/components/Home.jsx 7:0-39
+Module not found: Error: Can't resolve '../assets/floor.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/context/ReviewContext.jsx 6:0-42
+Module not found: Error: Can't resolve '../assets/barney.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 7:0-44
+Module not found: Error: Can't resolve '../assets/richard.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 8:0-46
+Module not found: Error: Can't resolve '../assets/gilfoyle.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 9:0-42
+Module not found: Error: Can't resolve '../assets/dinesh.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 10:0-40
+Module not found: Error: Can't resolve '../assets/gavin.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 11:0-42
+Module not found: Error: Can't resolve '../assets/rachel.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 12:0-42
+Module not found: Error: Can't resolve '../assets/phoebe.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 13:0-47
+Module not found: Error: Can't resolve '../assets/monica-hall.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 14:0-38
+Module not found: Error: Can't resolve '../assets/ross.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 15:0-46
+Module not found: Error: Can't resolve '../assets/chandler.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 16:0-38
+Module not found: Error: Can't resolve '../assets/joey.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 17:0-42
+Module not found: Error: Can't resolve '../assets/elrich.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 18:0-38
+Module not found: Error: Can't resolve '../assets/jian.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 19:0-40
+Module not found: Error: Can't resolve '../assets/jared.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 20:0-42
+Module not found: Error: Can't resolve '../assets/monica.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 21:0-42
+Module not found: Error: Can't resolve '../assets/laurie.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 22:0-42
+Module not found: Error: Can't resolve '../assets/dexter.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 23:0-42
+Module not found: Error: Can't resolve '../assets/jesse.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 24:0-42
+Module not found: Error: Can't resolve '../assets/walter.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 25:0-36
+Module not found: Error: Can't resolve '../assets/ted.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 26:0-46
+Module not found: Error: Can't resolve '../assets/marshall.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 27:0-39
+Module not found: Error: Can't resolve '../assets/lily.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 28:0-40
+Module not found: Error: Can't resolve '../assets/robin.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 5:0-40
+Module not found: Error: Can't resolve '../assets/trainer1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 6:0-40
+Module not found: Error: Can't resolve '../assets/trainer2.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 7:0-40
+Module not found: Error: Can't resolve '../assets/trainer3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 8:0-40
+Module not found: Error: Can't resolve '../assets/trainer4.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 9:0-40
+Module not found: Error: Can't resolve '../assets/trainer5.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 10:0-36
+Module not found: Error: Can't resolve '../assets/nut1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 11:0-36
+Module not found: Error: Can't resolve '../assets/nut2.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 12:0-36
+Module not found: Error: Can't resolve '../assets/nut4.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 13:0-36
+Module not found: Error: Can't resolve '../assets/nut3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 14:0-35
+Module not found: Error: Can't resolve '../assets/r7.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 5:36-82
+Module not found: Error: Can't resolve './assets/floor.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 6:36-87
+Module not found: Error: Can't resolve './assets/price_page.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 7:36-81
+Module not found: Error: Can't resolve './assets/img1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 8:36-81
+Module not found: Error: Can't resolve './assets/sign.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 9:36-84
+Module not found: Error: Can't resolve './assets/fitarmy.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 10:36-83
+Module not found: Error: Can't resolve './assets/review.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 11:36-91
+Module not found: Error: Can't resolve './assets/privacypolicy3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 12:36-92
+Module not found: Error: Can't resolve './assets/termsofservices.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+webpack compiled with 44 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '../assets/180419_Boxing_A1_04.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+WARNING in [eslint]
+src\screens\common\AddLocalAdmin.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AddTrainer.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AllBatches.jsx
+  Line 15:11:  'history' is assigned a value but never used      no-unused-vars
+  Line 42:11:  'deleteBatch' is assigned a value but never used  no-unused-vars
+
+src\screens\common\BranchPage.jsx
+  Line 14:9:  'history' is assigned a value but never used                                                                                                  no-unused-vars
+  Line 47:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\SignIn.jsx
+  Line 5:10:  'Link' is defined but never used  no-unused-vars
+
+src\screens\common\SignUp.jsx
+  Line 9:9:    'useSelector' is defined but never used    no-unused-vars
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\UpdateBatch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                 no-unused-vars
+  Line 11:12:  'batchType' is assigned a value but never used                                                                          no-unused-vars
+  Line 25:9:   React Hook useEffect has a missing dependency: 'batchData.batchTime'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateBranch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                                            no-unused-vars
+  Line 11:12:  'branchName' is assigned a value but never used                                                                                                    no-unused-vars
+  Line 13:12:  'city' is assigned a value but never used                                                                                                          no-unused-vars
+  Line 14:12:  'state' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 16:12:  'phone' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 30:9:   React Hook useEffect has missing dependencies: 'branchData.locality' and 'branchData.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateLocalAdmin.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\common\UpdatePackage.jsx
+  Line 31:5:  React Hook useEffect has missing dependencies: 'packageData.packageDescription', 'packageData.packageName', and 'packageData.packagePrice'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyBranchPage.jsx
+  Line 48:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyMembers.jsx
+  Line 27:9:  React Hook useEffect has a missing dependency: 'getMember'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\UpdateMember.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\localadmin\UpdateTrainer.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\member\ProfileLocal.jsx
+  Line 58:5:  React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\member\ProfileMember.jsx
+  Line 4:8:    'axios' is defined but never used                                                                                                                                                                                                                                                                                              no-unused-vars
+  Line 27:10:  'role' is assigned a value but never used                                                                                                                                                                                                                                                                                      no-unused-vars
+  Line 27:16:  'setRole' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 29:9:   'history' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 40:11:  'id' is assigned a value but never used                                                                                                                                                                                                                                                                                        no-unused-vars
+  Line 58:5:   React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+ERROR in ./src/components/About.jsx 9:0-52
+Module not found: Error: Can't resolve '../assets/180419_Boxing_A1_04.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/components/Home.jsx 6:0-37
+Module not found: Error: Can't resolve '../assets/hero.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/components/Home.jsx 7:0-39
+Module not found: Error: Can't resolve '../assets/floor.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/context/ReviewContext.jsx 6:0-42
+Module not found: Error: Can't resolve '../assets/barney.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 7:0-44
+Module not found: Error: Can't resolve '../assets/richard.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 8:0-46
+Module not found: Error: Can't resolve '../assets/gilfoyle.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 9:0-42
+Module not found: Error: Can't resolve '../assets/dinesh.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 10:0-40
+Module not found: Error: Can't resolve '../assets/gavin.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 11:0-42
+Module not found: Error: Can't resolve '../assets/rachel.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 12:0-42
+Module not found: Error: Can't resolve '../assets/phoebe.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 13:0-47
+Module not found: Error: Can't resolve '../assets/monica-hall.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 14:0-38
+Module not found: Error: Can't resolve '../assets/ross.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 15:0-46
+Module not found: Error: Can't resolve '../assets/chandler.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 16:0-38
+Module not found: Error: Can't resolve '../assets/joey.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 17:0-42
+Module not found: Error: Can't resolve '../assets/elrich.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 18:0-38
+Module not found: Error: Can't resolve '../assets/jian.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 19:0-40
+Module not found: Error: Can't resolve '../assets/jared.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 20:0-42
+Module not found: Error: Can't resolve '../assets/monica.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 21:0-42
+Module not found: Error: Can't resolve '../assets/laurie.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 22:0-42
+Module not found: Error: Can't resolve '../assets/dexter.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 23:0-42
+Module not found: Error: Can't resolve '../assets/jesse.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 24:0-42
+Module not found: Error: Can't resolve '../assets/walter.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 25:0-36
+Module not found: Error: Can't resolve '../assets/ted.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 26:0-46
+Module not found: Error: Can't resolve '../assets/marshall.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 27:0-39
+Module not found: Error: Can't resolve '../assets/lily.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 28:0-40
+Module not found: Error: Can't resolve '../assets/robin.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 5:0-40
+Module not found: Error: Can't resolve '../assets/trainer1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 6:0-40
+Module not found: Error: Can't resolve '../assets/trainer2.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 7:0-40
+Module not found: Error: Can't resolve '../assets/trainer3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 8:0-40
+Module not found: Error: Can't resolve '../assets/trainer4.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 9:0-40
+Module not found: Error: Can't resolve '../assets/trainer5.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 10:0-36
+Module not found: Error: Can't resolve '../assets/nut1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 11:0-36
+Module not found: Error: Can't resolve '../assets/nut2.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 12:0-36
+Module not found: Error: Can't resolve '../assets/nut4.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 13:0-36
+Module not found: Error: Can't resolve '../assets/nut3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 14:0-35
+Module not found: Error: Can't resolve '../assets/r7.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 5:36-82
+Module not found: Error: Can't resolve './assets/floor.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 6:36-87
+Module not found: Error: Can't resolve './assets/price_page.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 7:36-81
+Module not found: Error: Can't resolve './assets/img1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 8:36-81
+Module not found: Error: Can't resolve './assets/sign.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 9:36-84
+Module not found: Error: Can't resolve './assets/fitarmy.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 10:36-83
+Module not found: Error: Can't resolve './assets/review.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 11:36-91
+Module not found: Error: Can't resolve './assets/privacypolicy3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 12:36-92
+Module not found: Error: Can't resolve './assets/termsofservices.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+webpack compiled with 44 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '../assets/hero.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+WARNING in [eslint]
+src\screens\common\AddLocalAdmin.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AddTrainer.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AllBatches.jsx
+  Line 15:11:  'history' is assigned a value but never used      no-unused-vars
+  Line 42:11:  'deleteBatch' is assigned a value but never used  no-unused-vars
+
+src\screens\common\BranchPage.jsx
+  Line 14:9:  'history' is assigned a value but never used                                                                                                  no-unused-vars
+  Line 47:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\SignIn.jsx
+  Line 5:10:  'Link' is defined but never used  no-unused-vars
+
+src\screens\common\SignUp.jsx
+  Line 9:9:    'useSelector' is defined but never used    no-unused-vars
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\UpdateBatch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                 no-unused-vars
+  Line 11:12:  'batchType' is assigned a value but never used                                                                          no-unused-vars
+  Line 25:9:   React Hook useEffect has a missing dependency: 'batchData.batchTime'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateBranch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                                            no-unused-vars
+  Line 11:12:  'branchName' is assigned a value but never used                                                                                                    no-unused-vars
+  Line 13:12:  'city' is assigned a value but never used                                                                                                          no-unused-vars
+  Line 14:12:  'state' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 16:12:  'phone' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 30:9:   React Hook useEffect has missing dependencies: 'branchData.locality' and 'branchData.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateLocalAdmin.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\common\UpdatePackage.jsx
+  Line 31:5:  React Hook useEffect has missing dependencies: 'packageData.packageDescription', 'packageData.packageName', and 'packageData.packagePrice'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyBranchPage.jsx
+  Line 48:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyMembers.jsx
+  Line 27:9:  React Hook useEffect has a missing dependency: 'getMember'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\UpdateMember.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\localadmin\UpdateTrainer.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\member\ProfileLocal.jsx
+  Line 58:5:  React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\member\ProfileMember.jsx
+  Line 4:8:    'axios' is defined but never used                                                                                                                                                                                                                                                                                              no-unused-vars
+  Line 27:10:  'role' is assigned a value but never used                                                                                                                                                                                                                                                                                      no-unused-vars
+  Line 27:16:  'setRole' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 29:9:   'history' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 40:11:  'id' is assigned a value but never used                                                                                                                                                                                                                                                                                        no-unused-vars
+  Line 58:5:   React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+ERROR in ./src/components/Home.jsx 6:0-37
+Module not found: Error: Can't resolve '../assets/hero.mp4' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/components/Home.jsx 7:0-39
+Module not found: Error: Can't resolve '../assets/floor.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\components'
+
+ERROR in ./src/context/ReviewContext.jsx 6:0-42
+Module not found: Error: Can't resolve '../assets/barney.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 7:0-44
+Module not found: Error: Can't resolve '../assets/richard.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 8:0-46
+Module not found: Error: Can't resolve '../assets/gilfoyle.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 9:0-42
+Module not found: Error: Can't resolve '../assets/dinesh.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 10:0-40
+Module not found: Error: Can't resolve '../assets/gavin.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 11:0-42
+Module not found: Error: Can't resolve '../assets/rachel.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 12:0-42
+Module not found: Error: Can't resolve '../assets/phoebe.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 13:0-47
+Module not found: Error: Can't resolve '../assets/monica-hall.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 14:0-38
+Module not found: Error: Can't resolve '../assets/ross.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 15:0-46
+Module not found: Error: Can't resolve '../assets/chandler.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 16:0-38
+Module not found: Error: Can't resolve '../assets/joey.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 17:0-42
+Module not found: Error: Can't resolve '../assets/elrich.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 18:0-38
+Module not found: Error: Can't resolve '../assets/jian.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 19:0-40
+Module not found: Error: Can't resolve '../assets/jared.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 20:0-42
+Module not found: Error: Can't resolve '../assets/monica.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 21:0-42
+Module not found: Error: Can't resolve '../assets/laurie.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 22:0-42
+Module not found: Error: Can't resolve '../assets/dexter.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 23:0-42
+Module not found: Error: Can't resolve '../assets/jesse.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 24:0-42
+Module not found: Error: Can't resolve '../assets/walter.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 25:0-36
+Module not found: Error: Can't resolve '../assets/ted.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 26:0-46
+Module not found: Error: Can't resolve '../assets/marshall.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 27:0-39
+Module not found: Error: Can't resolve '../assets/lily.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 28:0-40
+Module not found: Error: Can't resolve '../assets/robin.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 5:0-40
+Module not found: Error: Can't resolve '../assets/trainer1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 6:0-40
+Module not found: Error: Can't resolve '../assets/trainer2.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 7:0-40
+Module not found: Error: Can't resolve '../assets/trainer3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 8:0-40
+Module not found: Error: Can't resolve '../assets/trainer4.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 9:0-40
+Module not found: Error: Can't resolve '../assets/trainer5.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 10:0-36
+Module not found: Error: Can't resolve '../assets/nut1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 11:0-36
+Module not found: Error: Can't resolve '../assets/nut2.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 12:0-36
+Module not found: Error: Can't resolve '../assets/nut4.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 13:0-36
+Module not found: Error: Can't resolve '../assets/nut3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 14:0-35
+Module not found: Error: Can't resolve '../assets/r7.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 5:36-82
+Module not found: Error: Can't resolve './assets/floor.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 6:36-87
+Module not found: Error: Can't resolve './assets/price_page.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 7:36-81
+Module not found: Error: Can't resolve './assets/img1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 8:36-81
+Module not found: Error: Can't resolve './assets/sign.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 9:36-84
+Module not found: Error: Can't resolve './assets/fitarmy.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 10:36-83
+Module not found: Error: Can't resolve './assets/review.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 11:36-91
+Module not found: Error: Can't resolve './assets/privacypolicy3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 12:36-92
+Module not found: Error: Can't resolve './assets/termsofservices.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+webpack compiled with 43 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '../assets/richard.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+WARNING in [eslint]
+src\screens\common\AddLocalAdmin.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AddTrainer.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AllBatches.jsx
+  Line 15:11:  'history' is assigned a value but never used      no-unused-vars
+  Line 42:11:  'deleteBatch' is assigned a value but never used  no-unused-vars
+
+src\screens\common\BranchPage.jsx
+  Line 14:9:  'history' is assigned a value but never used                                                                                                  no-unused-vars
+  Line 47:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\SignIn.jsx
+  Line 5:10:  'Link' is defined but never used  no-unused-vars
+
+src\screens\common\SignUp.jsx
+  Line 9:9:    'useSelector' is defined but never used    no-unused-vars
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\UpdateBatch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                 no-unused-vars
+  Line 11:12:  'batchType' is assigned a value but never used                                                                          no-unused-vars
+  Line 25:9:   React Hook useEffect has a missing dependency: 'batchData.batchTime'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateBranch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                                            no-unused-vars
+  Line 11:12:  'branchName' is assigned a value but never used                                                                                                    no-unused-vars
+  Line 13:12:  'city' is assigned a value but never used                                                                                                          no-unused-vars
+  Line 14:12:  'state' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 16:12:  'phone' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 30:9:   React Hook useEffect has missing dependencies: 'branchData.locality' and 'branchData.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateLocalAdmin.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\common\UpdatePackage.jsx
+  Line 31:5:  React Hook useEffect has missing dependencies: 'packageData.packageDescription', 'packageData.packageName', and 'packageData.packagePrice'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyBranchPage.jsx
+  Line 48:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyMembers.jsx
+  Line 27:9:  React Hook useEffect has a missing dependency: 'getMember'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\UpdateMember.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\localadmin\UpdateTrainer.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\member\ProfileLocal.jsx
+  Line 58:5:  React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\member\ProfileMember.jsx
+  Line 4:8:    'axios' is defined but never used                                                                                                                                                                                                                                                                                              no-unused-vars
+  Line 27:10:  'role' is assigned a value but never used                                                                                                                                                                                                                                                                                      no-unused-vars
+  Line 27:16:  'setRole' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 29:9:   'history' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 40:11:  'id' is assigned a value but never used                                                                                                                                                                                                                                                                                        no-unused-vars
+  Line 58:5:   React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+ERROR in ./src/context/ReviewContext.jsx 7:0-44
+Module not found: Error: Can't resolve '../assets/richard.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 11:0-42
+Module not found: Error: Can't resolve '../assets/rachel.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 14:0-38
+Module not found: Error: Can't resolve '../assets/ross.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 24:0-42
+Module not found: Error: Can't resolve '../assets/walter.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 25:0-36
+Module not found: Error: Can't resolve '../assets/ted.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/ReviewContext.jsx 28:0-40
+Module not found: Error: Can't resolve '../assets/robin.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 5:0-40
+Module not found: Error: Can't resolve '../assets/trainer1.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 6:0-40
+Module not found: Error: Can't resolve '../assets/trainer2.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 7:0-40
+Module not found: Error: Can't resolve '../assets/trainer3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 8:0-40
+Module not found: Error: Can't resolve '../assets/trainer4.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 9:0-40
+Module not found: Error: Can't resolve '../assets/trainer5.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/context/TrainerContext.jsx 14:0-35
+Module not found: Error: Can't resolve '../assets/r7.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src\context'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 8:36-81
+Module not found: Error: Can't resolve './assets/sign.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 10:36-83
+Module not found: Error: Can't resolve './assets/review.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 11:36-91
+Module not found: Error: Can't resolve './assets/privacypolicy3.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+ERROR in ./src/index.css (./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[5].use[2]!./node_modules/source-map-loader/dist/cjs.js!./src/index.css) 12:36-92
+Module not found: Error: Can't resolve './assets/termsofservices.jpg' in 'E:\CDAC projects\fitart-master0902\fitart\src'
+
+webpack compiled with 16 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint]
+src\screens\common\AddLocalAdmin.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AddTrainer.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AllBatches.jsx
+  Line 15:11:  'history' is assigned a value but never used      no-unused-vars
+  Line 42:11:  'deleteBatch' is assigned a value but never used  no-unused-vars
+
+src\screens\common\BranchPage.jsx
+  Line 14:9:  'history' is assigned a value but never used                                                                                                  no-unused-vars
+  Line 47:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\SignIn.jsx
+  Line 5:10:  'Link' is defined but never used  no-unused-vars
+
+src\screens\common\SignUp.jsx
+  Line 9:9:    'useSelector' is defined but never used    no-unused-vars
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\UpdateBatch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                 no-unused-vars
+  Line 11:12:  'batchType' is assigned a value but never used                                                                          no-unused-vars
+  Line 25:9:   React Hook useEffect has a missing dependency: 'batchData.batchTime'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateBranch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                                            no-unused-vars
+  Line 11:12:  'branchName' is assigned a value but never used                                                                                                    no-unused-vars
+  Line 13:12:  'city' is assigned a value but never used                                                                                                          no-unused-vars
+  Line 14:12:  'state' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 16:12:  'phone' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 30:9:   React Hook useEffect has missing dependencies: 'branchData.locality' and 'branchData.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateLocalAdmin.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\common\UpdatePackage.jsx
+  Line 31:5:  React Hook useEffect has missing dependencies: 'packageData.packageDescription', 'packageData.packageName', and 'packageData.packagePrice'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyBranchPage.jsx
+  Line 48:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyMembers.jsx
+  Line 27:9:  React Hook useEffect has a missing dependency: 'getMember'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\UpdateMember.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\localadmin\UpdateTrainer.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\member\ProfileLocal.jsx
+  Line 58:5:  React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\member\ProfileMember.jsx
+  Line 4:8:    'axios' is defined but never used                                                                                                                                                                                                                                                                                              no-unused-vars
+  Line 27:10:  'role' is assigned a value but never used                                                                                                                                                                                                                                                                                      no-unused-vars
+  Line 27:16:  'setRole' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 29:9:   'history' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 40:11:  'id' is assigned a value but never used                                                                                                                                                                                                                                                                                        no-unused-vars
+  Line 58:5:   React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint]
+src\screens\common\AddLocalAdmin.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AddTrainer.jsx
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\AllBatches.jsx
+  Line 15:11:  'history' is assigned a value but never used      no-unused-vars
+  Line 42:11:  'deleteBatch' is assigned a value but never used  no-unused-vars
+
+src\screens\common\BranchPage.jsx
+  Line 14:9:  'history' is assigned a value but never used                                                                                                  no-unused-vars
+  Line 47:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\SignIn.jsx
+  Line 5:10:  'Link' is defined but never used  no-unused-vars
+
+src\screens\common\SignUp.jsx
+  Line 9:9:    'useSelector' is defined but never used    no-unused-vars
+  Line 22:10:  'role' is assigned a value but never used  no-unused-vars
+
+src\screens\common\UpdateBatch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                 no-unused-vars
+  Line 11:12:  'batchType' is assigned a value but never used                                                                          no-unused-vars
+  Line 25:9:   React Hook useEffect has a missing dependency: 'batchData.batchTime'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateBranch.jsx
+  Line 10:12:  'id' is assigned a value but never used                                                                                                            no-unused-vars
+  Line 11:12:  'branchName' is assigned a value but never used                                                                                                    no-unused-vars
+  Line 13:12:  'city' is assigned a value but never used                                                                                                          no-unused-vars
+  Line 14:12:  'state' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 16:12:  'phone' is assigned a value but never used                                                                                                         no-unused-vars
+  Line 30:9:   React Hook useEffect has missing dependencies: 'branchData.locality' and 'branchData.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\common\UpdateLocalAdmin.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\common\UpdatePackage.jsx
+  Line 31:5:  React Hook useEffect has missing dependencies: 'packageData.packageDescription', 'packageData.packageName', and 'packageData.packagePrice'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyBranchPage.jsx
+  Line 48:9:  React Hook useEffect has missing dependencies: 'getBatch', 'getMember', and 'getTrainer'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\MyMembers.jsx
+  Line 27:9:  React Hook useEffect has a missing dependency: 'getMember'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\localadmin\UpdateMember.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\localadmin\UpdateTrainer.jsx
+  Line 10:12:  'id' is assigned a value but never used         no-unused-vars
+  Line 11:12:  'firstName' is assigned a value but never used  no-unused-vars
+  Line 12:12:  'lastName' is assigned a value but never used   no-unused-vars
+  Line 13:12:  'email' is assigned a value but never used      no-unused-vars
+  Line 15:12:  'locality' is assigned a value but never used   no-unused-vars
+  Line 16:12:  'city' is assigned a value but never used       no-unused-vars
+  Line 17:12:  'state' is assigned a value but never used      no-unused-vars
+  Line 18:12:  'zipCode' is assigned a value but never used    no-unused-vars
+  Line 19:12:  'phone' is assigned a value but never used      no-unused-vars
+
+src\screens\member\ProfileLocal.jsx
+  Line 58:5:  React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+src\screens\member\ProfileMember.jsx
+  Line 4:8:    'axios' is defined but never used                                                                                                                                                                                                                                                                                              no-unused-vars
+  Line 27:10:  'role' is assigned a value but never used                                                                                                                                                                                                                                                                                      no-unused-vars
+  Line 27:16:  'setRole' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 29:9:   'history' is assigned a value but never used                                                                                                                                                                                                                                                                                   no-unused-vars
+  Line 40:11:  'id' is assigned a value but never used                                                                                                                                                                                                                                                                                        no-unused-vars
+  Line 58:5:   React Hook useEffect has missing dependencies: 'user.user.branch.branchName', 'user.user.city', 'user.user.email', 'user.user.firstName', 'user.user.lastName', 'user.user.locality', 'user.user.password', 'user.user.phone', 'user.user.state', and 'user.user.zipCode'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Terminate batch job (Y/N)?
