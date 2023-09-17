@@ -29,7 +29,7 @@ public class MailServiceImpl implements IMailService {
 		try {
 			MimeMessage message = javamailsender.createMimeMessage();
 			MimeMessageHelper helper = new MimeMessageHelper(message);
-			helper.setFrom("pushpdantpatil14@gmail.com");
+			helper.setFrom("mayurkhot1224@gmail.com");
 			helper.setTo(man.getEmail());
 			String text = "Hello " + man.getFirstName() + " Welcome To FitnessClub";
 			helper.setText(text);
@@ -46,7 +46,7 @@ public class MailServiceImpl implements IMailService {
 			System.out.println("Inside send mail");
 			MimeMessage message = javamailsender.createMimeMessage();
 			MimeMessageHelper helper = new MimeMessageHelper(message);
-			helper.setFrom("pushpdantpatil14@gmail.com");
+			helper.setFrom("mayurkhot1224@gmail.com");
 			for (int i = 0; i < member.size(); i++) {
 				System.out.println(member.get(i).getFirstName());
 				if (member.get(i) == null)
@@ -70,9 +70,9 @@ public class MailServiceImpl implements IMailService {
 			System.out.println("Inside send mail");
 			MimeMessage message = javamailsender.createMimeMessage();
 			MimeMessageHelper helper = new MimeMessageHelper(message);
-			helper.setFrom("pushpdantpatil14@gmail.com");
+			helper.setFrom("mayurkhot1224@gmail.com");
 			// helper.setTo(member.getEmail());
-			helper.setTo("pushpdantpatil@gmail.com");
+			helper.setTo("mayurkhot1224@gmail.com");
 			String text = "Hello " + member.getFirstName() + "Your Todays Workout is " + ro.getWorkout()
 					+ " And todays Diet is " + ro.getDiet();
 			helper.setText(text);
@@ -89,7 +89,7 @@ public class MailServiceImpl implements IMailService {
 		try {
 			MimeMessage message = javamailsender.createMimeMessage();
 			MimeMessageHelper helper = new MimeMessageHelper(message);
-			helper.setFrom("pushpdantpatil14@gmail.com");
+			helper.setFrom("mayurkhot1224@gmail.com");
 			helper.setTo(member.getEmail());
 			String text = "Hello " + member.getFirstName() + member.getLastName()
 					+ " Welcome To FitnessClub.Check out our exciting packages and Trainers and purchase membership to get started ";
@@ -106,7 +106,7 @@ public class MailServiceImpl implements IMailService {
 		try {
 			MimeMessage message = javamailsender.createMimeMessage();
 			MimeMessageHelper helper = new MimeMessageHelper(message);
-			helper.setFrom("pushpdantpatil14@gmail.com");
+			helper.setFrom("mayurkhot1224@gmail.com");
 			helper.setTo(invc.getMember().getEmail());
 			String text = "Hello " + invc.getMember().getFirstName() + " Welcome To FitnessClub "
 					+ " Detailed Invoice: " + "\n" + invc.getPaymentId() + " " + invc.getAmount() + " "
